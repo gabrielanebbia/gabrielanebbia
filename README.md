@@ -5,7 +5,8 @@
 
 *****************************************************************************
 
-### Languages and Tools:
+#### Languages and Tools:
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanebbia&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,13 +41,10 @@
 
 </p>
 
-<br>
-
 *****************************************************************************
 
-<br>
+#### My contributions:
 
-### My contributions:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanebbia&theme=slateorange&show_icons=true)
