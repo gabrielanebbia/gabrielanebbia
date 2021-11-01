@@ -7,17 +7,17 @@
 - 🤝 I’m looking to collaborate on projects of react.js
 - 📫 You can contact me <gabrielanebbia@gmail.com>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielanebbia&theme=onedark&show_icons=true" alt="Anurag's GitHub stats" width="400" height="400"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanebbia&theme=onedark&layout=compact" alt="Top Langs" width="400" height="400" font-size="2px"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielanebbia&theme=onedark&show_icons=true" alt="Anurag's GitHub stats" width="400" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanebbia&theme=onedark&layout=compact" alt="Top Langs" width="400" height="200" font-size="2px"/>
 
 ### `Languages and Tools:`
 
-<p align="left"> 
+<p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank"> 
+<a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
