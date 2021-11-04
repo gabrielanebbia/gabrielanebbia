@@ -2,10 +2,10 @@
 
 ### `About Me`
 
-- 🌱 I’m a full stack web development student at betrybe.com
+- 🌱 I’m a full stack web development student at Trybe
 - 📝  I’m currently learning back-end skills
 - 🤝 I’m looking to collaborate on projects of react.js
-- 📫 You can contact me <gabrielanebbia@gmail.com>
+- 📫 You can contact me at <gabrielanebbia@gmail.com>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielanebbia&theme=onedark&show_icons=true" alt="Anurag's GitHub stats" width="400" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanebbia&theme=onedark&layout=compact" alt="Top Langs" width="400" height="200"/>
