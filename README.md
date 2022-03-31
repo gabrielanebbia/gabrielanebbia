@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 🌱 Sou estudante de desenvolvimento web fullstack na [Trybe](betrybe.com).
+- 🌱 Sou estudante de desenvolvimento web fullstack na [Trybe](https://www.betrybe.com/).
 - :blue_book:  Atualmente estou aprendendo sobre ferramentas do backend e fundamentos da ciência da computação.
 - 🤝 Estou sempre a procura de projetos para colaborar e no momento principalmente em react.js ou node.js.
 
@@ -76,6 +76,6 @@
 ### Contatos
 
 <div>
-<a href = "mailto:contato@gabrielanebbia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:gabrielanebbia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriela-nebbia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
