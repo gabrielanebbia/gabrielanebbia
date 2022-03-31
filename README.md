@@ -1,11 +1,10 @@
-## `Hi, there!`
+## Olá! :rainbow:
 
-### `About Me`
+### Sobre mim
 
-- 🌱 I’m a full stack web development student at Trybe
-- 📝  I’m currently learning back-end skills
-- 🤝 I’m looking to collaborate on projects of react.js
-- 📫 You can contact me at <gabrielanebbia@gmail.com>
+- 🌱 Sou estudante de desenvolvimento web fullstack na [Trybe](betrybe.com).
+- :blue_book:  Atualmente estou aprendendo sobre ferramentas do backend e fundamentos da ciência da computação.
+- 🤝 Estou sempre a procura de projetos para colaborar e no momento principalmente em react.js ou node.js.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
