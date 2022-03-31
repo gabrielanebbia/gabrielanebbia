@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 🌱 Sou estudante de desenvolvimento web fullstack na [Trybe](betrybe.com).
+- 🌱 Sou estudante de desenvolvimento web fullstack na [Trybe](https://www.betrybe.com/).
 - :blue_book:  Atualmente estou aprendendo sobre ferramentas do backend e fundamentos da ciência da computação.
 - 🤝 Estou sempre a procura de projetos para colaborar e no momento principalmente em react.js ou node.js.
 
