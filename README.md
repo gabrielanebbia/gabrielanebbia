@@ -1,4 +1,4 @@
-## Olá! :rainbow
+## Olá! :rainbow:
 
 ### Sobre mim
 
