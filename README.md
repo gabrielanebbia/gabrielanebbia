@@ -1,4 +1,4 @@
-## Olá! :rainbow:
+## Olá! :rainbow
 
 ### Sobre mim
 
@@ -45,31 +45,28 @@
 <a href="https://expressjs.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
 </a>
-</p>
-
-### Estou aprendendo
-
-<p align="center">
+<a href="https://sequelize.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="70" height="70" />
+</a>
+<a href="https://eslint.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="ESlint" width="60" height="60" />
+</a>
+<a href="https://socket.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="70" height="70" />
+</a>
 <a href="https://docs.pytest.org/en/7.1.x/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="50" height="50" />
 </a>
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.java.com/pt-BR/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
-</a>
 </p>
 
+### Estou aprendendo
+
 <p align="center">
-<a href="https://eslint.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="ESlint" width="60" height="60" />
-</a>
-<a href="https://sequelize.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="70" height="70" />
-</a>
-<a href="https://socket.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="70" height="70" />
+<a href="https://www.java.com/pt-BR/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
 </a>
 </p>
 
