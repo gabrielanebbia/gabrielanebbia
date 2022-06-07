@@ -71,6 +71,9 @@
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30"/>
+</a>
 </p>
 
 ### Contatos
