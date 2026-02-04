@@ -3,13 +3,14 @@
 <h3>Sobre mim</h3>
 <ul>
   <li>🌱 Sou Engenheira de Software, formada em desenvolvimento web fullstack pela Trybe e atualmente curso graduação em Engenharia da Computação</li>
-  <li>🤝 Estou sempre a procura de projetos para colaborar e no momento principalmente em java ou node.js</li>
+  <li>🤝 Estou sempre a procura de projetos para colaborar e no momento principalmente em java</li>
 </ul>
-<div>
+
+<!-- <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielanebbia&theme=onedark&show_icons=true&count_private=true" alt="Anurag's GitHub stats" height="180em"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanebbia&theme=onedark&layout=compact&langs_count=8" alt="Top Langs" height="180em"/></a>
-</div>
+</div> -->
 
 <h3>Principais linguagens e ferramentas</h3>
 <p>
